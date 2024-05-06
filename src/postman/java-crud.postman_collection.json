@@ -1,0 +1,43 @@
+{
+	"info": {
+		"_postman_id": "32b0ba5a-fdc9-41f7-97a4-1d844eaf6d30",
+		"name": "java-crud",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "30368070",
+		"_collection_link": "https://universal-crater-371530.postman.co/workspace/Team-Workspace~6293c560-18d8-42b6-8411-47f44c7bed38/collection/30368070-32b0ba5a-fdc9-41f7-97a4-1d844eaf6d30?action=share&source=collection_link&creator=30368070"
+	},
+	"item": [
+		{
+			"name": "get-all",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "create",
+			"request": {
+				"method": "POST",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "put-by-id",
+			"request": {
+				"method": "PUT",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "delete-by-id",
+			"request": {
+				"method": "DELETE",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
